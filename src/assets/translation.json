@@ -1,0 +1,126 @@
+{
+    "en": {
+      "header": {
+        "calc": "Calculate",
+        "view": "View"
+      },
+      "titles": {
+          "calc": "Calculate",
+          "input": "Input",
+          "output": "Output",
+          "calcIO": {
+            "paper": "Paper",
+            "input": {
+                "box": "Box",
+                "layers": "Layers"
+            },
+            "output": {
+                "info": "Info",
+                "download": "Download"
+            }
+        }
+      },
+      "calc": {
+          "input": {
+              "type": "Box-Type",
+              "lenght": "Lenght",
+              "deep": "Deep",
+              "height": "Height",
+              "thickness": "Thickness (Layer {num})",
+              "flap": "Flap",
+              "amount": "Amount",
+              "paperG": "Grammage",
+              "paper": "Papertype"
+          },
+          "output": {
+              "needed": "Needed Paper",
+              "actual": "Actual area of Paper",
+              "flute": "Flutelayer | Flutelayers",
+              "corrugated": "Corrugated Cardboard",
+              "corrugatedAll": "All Corrugated Cardboard",
+              "weight": "Weight",
+              "price": "Price",
+              "weightAll": "Complete Weight",
+              "priceAll": "Complete Price",
+              "downloadBtn": "Download file"
+          }
+      },
+      "view": {
+          "wip": "Work in Progess"
+      },
+      "notifications": {
+          "file":{
+              "convert": {
+                  "title": "Data is getting converted",
+                  "body": "Your data will now be converted to the .{ext} FileFormat"
+              },
+              "success": {
+                  "title": "Data successfully converted",
+                  "body": "You can now \"Download\"‚ the File."
+              }
+          }
+      }
+    },
+    "de": {
+        "header": {
+          "calc": "Rechner",
+          "view": "Anschauen"
+        },
+        "titles": {
+            "calc": "Rechnen",
+            "input": "Eingabe",
+            "output": "Ausgabe",
+            "calcIO": {
+                "paper": "Papier",
+                "input": {
+                    "box": "Karton",
+                    "layers": "Ebenen"
+                },
+                "output": {
+                    "info": "Information",
+                    "download": "Herunterladen"
+                }
+            }
+        },
+        "calc": {
+            "input": {
+                "type": "Box-Typ",
+                "lenght": "Länge",
+                "deep": "Breite",
+                "height": "Höhe",
+                "thickness": "Dicke (Ebene {num})",
+                "flap": "Lasche",
+                "amount": "Anzahl",
+                "paperG": "Papiergramatur",
+                "paper": "Papertyp"
+            },
+            "output": {
+                "needed": "Benötigtes Papier",
+                "actual": "Tatsächliche Fläche",
+                "flute": "Wellenebene | Wellenebenen",
+                "corrugated": "Wellpappe",
+                "corrugatedAll": "Komplette Wellpappe",
+                "weight": "Gewicht",
+                "price": "Preis",
+                "weightAll": "Gesammtes Gewicht",
+                "priceAll": "Gesammter Preis",
+                "downloadBtn": "Datei Herunterladen"
+            }
+        },
+        "view": {
+            "wip": "Noch nicht Fertig"
+        },
+        "notifications": {
+            "file":{
+                "convert": {
+                    "title": "Die Daten werden konvertiert",
+                    "body": "Deine Daten werden jetzt in das .{ext} Dateiformat konvertiert"
+                },
+                "success": {
+                    "title": "Daten erfolgreich konvertiert",
+                    "body": "Du kannst die Daten jetzt \"Herunterladen\"."
+                }
+            }
+        }
+      }
+  }
