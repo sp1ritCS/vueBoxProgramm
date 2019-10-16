@@ -1,6 +1,9 @@
 <template>
   <div class="calc">
-    <h1>{{ $t("titles.calc") }} <font-awesome-icon icon="calculator" /></h1>
+    <h1>
+      {{ $t("titles.calc") }}
+      <font-awesome-icon icon="calculator" />
+    </h1>
     <div class="grid">
       <CalcInput />
       <CalcOutput />
@@ -18,6 +21,8 @@
   border: 1px solid rgba($color: #000, $alpha: 1 / 3);
   padding: 1rem;
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  max-height: 75vh;
+  overflow-y: scroll;
 }
 
 .grid {
