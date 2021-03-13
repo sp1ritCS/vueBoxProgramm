@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"0dfe":function(e,t,n){"use strict";n.r(t);var i=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"view"},[n("h1",[e._v(e._s(e.$t("view.wip")))])])},s=[],a={name:"ViewEl"},l=a,u=n("2877"),w=Object(u["a"])(l,i,s,!1,null,null,null);t["default"]=w.exports}}]);
+//# sourceMappingURL=about.cefa7bb1.js.map
